@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://dmitriyrud.github.io/</loc>
+	<lastmod>2022-01-09T12:15:41+01:00</lastmod>
+	<priority>1.0</priority>
+	<xhtml:link
+	rel="alternate"
+	hreflang="ru"
+	href="https://dmitriyrud.github.io/index.html" />
+    <xhtml:link
+	rel="alternate"
+	hreflang="en"
+	href="https://dmitriyrud.github.io/index_en.html" />
+</url>
+<url>
+	<loc>https://dmitriyrud.github.io/cv/cv_eng.pdf</loc>
+	<lastmod>2022-01-09T12:15:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
